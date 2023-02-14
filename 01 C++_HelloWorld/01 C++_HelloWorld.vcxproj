@@ -154,6 +154,7 @@
     <ClCompile Include="dataInput.cpp" />
     <ClCompile Include="DoWhile.cpp" />
     <ClCompile Include="escapeCharacter.cpp" />
+    <ClCompile Include="Function.cpp" />
     <ClCompile Include="Practice20230104.cpp" />
     <ClCompile Include="Float.cpp" />
     <ClCompile Include="Forcpp.cpp" />
@@ -170,6 +171,7 @@
     <ClCompile Include="Switch.cpp" />
     <ClCompile Include="ternaryOperator.cpp" />
     <ClCompile Include="Two-dimensionalArray.cpp" />
+    <ClCompile Include="Two-dimensionArrayCase.cpp" />
     <ClCompile Include="While.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
