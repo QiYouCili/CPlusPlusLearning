@@ -168,11 +168,15 @@
     <ClCompile Include="sizeof.cpp" />
     <ClCompile Include="char.cpp" />
     <ClCompile Include="string.cpp" />
+    <ClCompile Include="swap.cpp" />
     <ClCompile Include="Switch.cpp" />
     <ClCompile Include="ternaryOperator.cpp" />
     <ClCompile Include="Two-dimensionalArray.cpp" />
     <ClCompile Include="Two-dimensionArrayCase.cpp" />
     <ClCompile Include="While.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
