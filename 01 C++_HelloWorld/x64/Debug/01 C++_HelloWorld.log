@@ -1,6 +1,2 @@
-﻿  Function.cpp
-C:\Users\Jiapei.Liu\source\repos\CPlusPlusLearning\01 C++_HelloWorld\Function.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  swap.cpp
-C:\Users\Jiapei.Liu\source\repos\CPlusPlusLearning\01 C++_HelloWorld\swap.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Generating Code...
+﻿  PointerAndArrayAndFunction.cpp
   01 C++_HelloWorld.vcxproj -> C:\Users\Jiapei.Liu\source\repos\CPlusPlusLearning\x64\Debug\01 C++_HelloWorld.exe

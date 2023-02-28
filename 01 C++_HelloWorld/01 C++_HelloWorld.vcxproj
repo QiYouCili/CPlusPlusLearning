@@ -155,6 +155,10 @@
     <ClCompile Include="DoWhile.cpp" />
     <ClCompile Include="escapeCharacter.cpp" />
     <ClCompile Include="Function.cpp" />
+    <ClCompile Include="Pointer.cpp" />
+    <ClCompile Include="PointerAndArray.cpp" />
+    <ClCompile Include="PointerAndArrayAndFunction.cpp" />
+    <ClCompile Include="PointerAndFunction.cpp" />
     <ClCompile Include="Practice20230104.cpp" />
     <ClCompile Include="Float.cpp" />
     <ClCompile Include="Forcpp.cpp" />
@@ -168,6 +172,10 @@
     <ClCompile Include="sizeof.cpp" />
     <ClCompile Include="char.cpp" />
     <ClCompile Include="string.cpp" />
+    <ClCompile Include="Struct.cpp" />
+    <ClCompile Include="StructArray.cpp" />
+    <ClCompile Include="StructPointer.cpp" />
+    <ClCompile Include="StructAndConst.cpp" />
     <ClCompile Include="swap.cpp" />
     <ClCompile Include="Switch.cpp" />
     <ClCompile Include="ternaryOperator.cpp" />
