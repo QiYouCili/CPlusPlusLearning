@@ -144,6 +144,9 @@
     <ClCompile Include="StructAndConst.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StructExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
